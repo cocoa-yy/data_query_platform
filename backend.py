@@ -16,11 +16,11 @@ app.add_middleware(
 
 # 数据库配置
 db_config = {
-    'host': '111.119.242.63',
-    'port': 3306,
-    'user': 'zhukeyun',
-    'password': 'yytt0324',
-    'database': 'media_corpus'
+    'host': '****',
+    'port': ****,
+    'user': '****',
+    'password': '****',
+    'database': '****'
 }
 
 # 获取新闻
