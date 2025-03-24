@@ -2,7 +2,7 @@
 
 新闻事件动态更新的查询平台，需要搭配数据库 使用   
 测试阶段，需要访问链接请联系作者  
-![alt text](image.png)
+![alt text](assets/page.png)
 
 
 ## 项目功能
